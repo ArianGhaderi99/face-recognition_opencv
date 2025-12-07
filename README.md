@@ -43,7 +43,7 @@ This README is written to be copy-paste ready for a GitHub repository.
 
 > Run the script and you will see a live window showing the webcam feed. Detected faces are highlighted with rectangles. Press `q` to close.
 
-![when webcam on ]()
+![when webcam on ](https://github.com/ArianGhaderi99/face-recognition_opencv/blob/main/image.jpg)
 
 ---
 

@@ -1,8 +1,5 @@
 # face-recognition_opencv
 
-
-# face-recognition_opencv
-
 > Simple face detection & basic recognition demo using **Python** and **OpenCV**.
 > Live webcam feed, draws bounding boxes around detected faces, and exits when you press **`q`**.
 
@@ -46,7 +43,7 @@ This README is written to be copy-paste ready for a GitHub repository.
 
 > Run the script and you will see a live window showing the webcam feed. Detected faces are highlighted with rectangles. Press `q` to close.
 
-
+![when webcam on ]()
 
 ---
 

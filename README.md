@@ -46,7 +46,7 @@ This README is written to be copy-paste ready for a GitHub repository.
 
 > Run the script and you will see a live window showing the webcam feed. Detected faces are highlighted with rectangles. Press `q` to close.
 
-*(If you want, add a screenshot or GIF named `demo.gif` or `screenshot.png` in the repo and reference it here: `![Demo](./demo.gif)`.)*
+
 
 ---
 
